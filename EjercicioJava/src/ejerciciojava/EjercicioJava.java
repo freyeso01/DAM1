@@ -15,8 +15,8 @@ public class EjercicioJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int valor1=20;
-        int valor2=30;
+        int valor1=50;
+        int valor2=70;
         int suma=valor1+valor2;
         
         System.out.println("El resultado de la suma es: "+suma);
